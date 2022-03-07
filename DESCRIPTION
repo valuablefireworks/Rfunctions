@@ -1,0 +1,5 @@
+Package: Osel
+Type: Package
+Title: Temperature Conversion Package Conversion
+Version: 0.0.1.0
+RoxygenNote: 0.1.0
