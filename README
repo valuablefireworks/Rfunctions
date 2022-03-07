@@ -1,0 +1,7 @@
+This is a function package that helps me find appropriate central tendencies for different datraframe collumns automaticlly based on catagorization
+of Interval Ration, Catagorical and Nomical dataypes.
+
+sandyCombo (z,x) {
+}
+Where z = 'IR', 'Ordinal', or 'Nominal',
+Where x = R object, specifically tested with Dataframe Collumns
